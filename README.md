@@ -15,19 +15,12 @@ I’m a passionate developer driven by purpose-led innovation. I specialize in b
 
 ### 🧰 Tech Stack & Tools
 
-#### 🔙 Backend
-- **Languages**: `Go (Golang)`, `JavaScript`,`Rust`, `Solidity`, `Python`, `Move`
-- **Frameworks**: `Gin`, `net/http`
-- **Databases**: `PostgreSQL`, `SQLite`, `IPFS`
+| 🔙 **Backend**                                                                 | 🎨 **Frontend**                                      | ⚙️ **DevOps & Tools**                                      |
+|------------------------------------------------------------------------------|-----------------------------------------------------|------------------------------------------------------------|
+| **Languages:**<br>`Go`, `JavaScript`, `Rust`, `Solidity`, `Python`, `Move`  | **Languages:**<br>`HTML5`, `CSS3`, `TailwindCSS`    | **Tools:**<br>`Docker`, `Git`, `GitHub`, `VS Code`         |
+| **Frameworks:**<br>`Gin`, `net/http`                                         | **Libraries:**<br>`React (Vite + Hooks)`, `Vanilla JS` | **Others:**<br>`Postman`, `Linux CLI`, `Figma`, `Canva`    |
+| **Databases:**<br>`PostgreSQL`, `SQLite`, `IPFS`                             |                                                     |                                                            |
 
-#### 🎨 Frontend
-- **Languages**: `HTML5`, `CSS3`, `TailwindCSS`
-- **Libraries**: `React` (Vite + Hooks), `Vanilla JS`
-
-#### ⚙️ DevOps & Tooling
-- **Tools**: `Docker`, `Git`, `GitHub`, `VS Code`
-- **Others**: `Postman`, `Linux CLI`, `Figma`, `Canva`
-  
 ---
 
 ### 📈 GitHub Stats
