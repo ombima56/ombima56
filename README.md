@@ -34,5 +34,5 @@ I’m a passionate developer driven by purpose-led innovation. I specialize in b
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ombima56&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ombima56&theme=radical" alt="GitHub Streak" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ombima56&theme=radical" alt="GitHub Streak" /> -->
 </p>
